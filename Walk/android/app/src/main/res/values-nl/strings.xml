@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">Tijd om te bewegen!</string>
+    <string name="notif_goal_body">Werktimer afgelopen. Sta op en rek je uit!</string>
+    <string name="notif_reminder_title">Walk herinnering</string>
+    <string name="notif_reminder_body">Nog %1$s tot de pauze.</string>
+    <string name="channel_normal">Walk Meldingen</string>
+    <string name="channel_strong">Walk Sterke Waarschuwingen</string>
+    <string name="alarm_default_title">Pauze</string>
+    <string name="alarm_open_app">Walk App openen</string>
+    <string name="alarm_dismiss">Sluiten</string>
+</resources>

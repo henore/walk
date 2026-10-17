@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">ถึงเวลาเคลื่อนไหว!</string>
+    <string name="notif_goal_body">ตัวจับเวลาทำงานหมดแล้ว ลุกขึ้นยืดเส้นยืดสาย!</string>
+    <string name="notif_reminder_title">การแจ้งเตือน Walk</string>
+    <string name="notif_reminder_body">อีก %1$s ถึงเวลาพัก</string>
+    <string name="channel_normal">การแจ้งเตือน Walk</string>
+    <string name="channel_strong">การแจ้งเตือนแรง Walk</string>
+    <string name="alarm_default_title">เวลาพัก</string>
+    <string name="alarm_open_app">เปิดแอป Walk</string>
+    <string name="alarm_dismiss">ปิด</string>
+</resources>

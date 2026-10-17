@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">休憩の時間です！</string>
+    <string name="notif_goal_body">作業タイマー終了。立ち上がってストレッチしましょう！</string>
+    <string name="notif_reminder_title">Walk リマインダー</string>
+    <string name="notif_reminder_body">休憩まであと%1$s。</string>
+    <string name="channel_normal">Walk 通知</string>
+    <string name="channel_strong">Walk 強力アラート</string>
+    <string name="alarm_default_title">休憩時間</string>
+    <string name="alarm_open_app">Walkを開く</string>
+    <string name="alarm_dismiss">閉じる</string>
+</resources>

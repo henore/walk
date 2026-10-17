@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">该活动了！</string>
+    <string name="notif_goal_body">工作计时器结束。站起来伸展一下！</string>
+    <string name="notif_reminder_title">Walk 提醒</string>
+    <string name="notif_reminder_body">距离休息还有 %1$s。</string>
+    <string name="channel_normal">Walk 通知</string>
+    <string name="channel_strong">Walk 强力提醒</string>
+    <string name="alarm_default_title">休息时间</string>
+    <string name="alarm_open_app">打开Walk应用</string>
+    <string name="alarm_dismiss">关闭</string>
+</resources>

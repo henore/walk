@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">Hareket zamanı!</string>
+    <string name="notif_goal_body">Çalışma zamanlayıcısı bitti. Kalkın ve esneme yapın!</string>
+    <string name="notif_reminder_title">Walk hatırlatıcısı</string>
+    <string name="notif_reminder_body">Molaya %1$s kaldı.</string>
+    <string name="channel_normal">Walk Bildirimleri</string>
+    <string name="channel_strong">Walk Güçlü Uyarılar</string>
+    <string name="alarm_default_title">Mola zamanı</string>
+    <string name="alarm_open_app">Walk Uygulamasını Aç</string>
+    <string name="alarm_dismiss">Kapat</string>
+</resources>

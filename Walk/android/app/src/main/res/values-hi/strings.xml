@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">चलने का समय!</string>
+    <string name="notif_goal_body">कार्य टाइमर समाप्त। उठें और स्ट्रेच करें!</string>
+    <string name="notif_reminder_title">Walk रिमाइंडर</string>
+    <string name="notif_reminder_body">ब्रेक तक %1$s बाकी।</string>
+    <string name="channel_normal">Walk सूचनाएं</string>
+    <string name="channel_strong">Walk तीव्र अलर्ट</string>
+    <string name="alarm_default_title">ब्रेक का समय</string>
+    <string name="alarm_open_app">Walk ऐप खोलें</string>
+    <string name="alarm_dismiss">बंद करें</string>
+</resources>

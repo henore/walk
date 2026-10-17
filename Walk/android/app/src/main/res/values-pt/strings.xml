@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">Hora de se mover!</string>
+    <string name="notif_goal_body">Timer de trabalho encerrado. Levante e alongue-se!</string>
+    <string name="notif_reminder_title">Lembrete Walk</string>
+    <string name="notif_reminder_body">%1$s para o intervalo.</string>
+    <string name="channel_normal">Notificações Walk</string>
+    <string name="channel_strong">Alertas fortes Walk</string>
+    <string name="alarm_default_title">Hora do intervalo</string>
+    <string name="alarm_open_app">Abrir Walk</string>
+    <string name="alarm_dismiss">Fechar</string>
+</resources>

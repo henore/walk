@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">Zeit zum Bewegen!</string>
+    <string name="notif_goal_body">Arbeitstimer beendet. Steh auf und dehne dich!</string>
+    <string name="notif_reminder_title">Walk Erinnerung</string>
+    <string name="notif_reminder_body">%1$s bis zur Pause.</string>
+    <string name="channel_normal">Walk Benachrichtigungen</string>
+    <string name="channel_strong">Walk Starke Alarme</string>
+    <string name="alarm_default_title">Pausenzeit</string>
+    <string name="alarm_open_app">Walk App öffnen</string>
+    <string name="alarm_dismiss">Schließen</string>
+</resources>

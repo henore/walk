@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">حان وقت التحرك!</string>
+    <string name="notif_goal_body">انتهى مؤقت العمل. قم وتمدد!</string>
+    <string name="notif_reminder_title">تذكير Walk</string>
+    <string name="notif_reminder_body">%1$s حتى وقت الاستراحة.</string>
+    <string name="channel_normal">إشعارات Walk</string>
+    <string name="channel_strong">تنبيهات Walk القوية</string>
+    <string name="alarm_default_title">وقت الاستراحة</string>
+    <string name="alarm_open_app">فتح تطبيق Walk</string>
+    <string name="alarm_dismiss">إغلاق</string>
+</resources>

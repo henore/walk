@@ -1,0 +1,11 @@
+<resources>
+    <string name="notif_goal_title">Время двигаться!</string>
+    <string name="notif_goal_body">Рабочий таймер завершён. Встаньте и разомнитесь!</string>
+    <string name="notif_reminder_title">Напоминание Walk</string>
+    <string name="notif_reminder_body">%1$s до перерыва.</string>
+    <string name="channel_normal">Уведомления Walk</string>
+    <string name="channel_strong">Сильные оповещения Walk</string>
+    <string name="alarm_default_title">Перерыв</string>
+    <string name="alarm_open_app">Открыть Walk</string>
+    <string name="alarm_dismiss">Закрыть</string>
+</resources>
